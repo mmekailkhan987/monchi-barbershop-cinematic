@@ -91,7 +91,7 @@ export default function Home() {
       <section id="story" className="story section-pad">
         <div className="section-kicker" data-reveal><span>01</span><span>THE SHOP</span></div>
         <div className="story-grid">
-          <div className="story-heading" data-reveal><p className="eyebrow">THE MONCHI STANDARD</p><h2>A better<br /><i>kind</i> of<br />usual.</h2></div>
+          <div className="story-heading" data-reveal><p className="eyebrow">THE MONCHI STANDARD</p><h2>A better <i>kind</i> of usual.</h2></div>
           <div className="story-copy" data-reveal><p className="large-copy">Monchi is built around the essentials: a precise cut, a clean space, and a crew that makes you feel like you’ve been coming here for years.</p><p>From the first hello to the final mirror check, the experience stays personal. Skilled barbers, an organized schedule, and a friendly, bilingual atmosphere make room for the details that count.</p><a className="text-link" href="#services">See the craft <ArrowDownRight size={16} /></a></div>
           <div className="story-photo parallax-photo" data-reveal style={{ transform: `translate3d(0, ${scroll * -0.045}px, 0)` }}><img src="/manus-storage/monchi-interior_abb99e02.jpg" alt="Warm, clean Monchi Barbershop interior" /><span className="photo-caption">A clean canvas for a fresh start.</span></div>
         </div>
