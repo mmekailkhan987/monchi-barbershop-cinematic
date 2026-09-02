@@ -1,6 +1,7 @@
-# Story section layout update
+# Compact Monchi redesign checklist
 
-- [x] Change “A better kind of usual.” to one left-aligned headline line on desktop.
-- [x] Rebalance the supporting copy and image around the new headline.
-- [x] Preserve a clean stacked composition on mobile.
-- [x] Verify the revised section and save the update.
+- [x] Use the supplied barbershop logo in the header, loader, favicon, contact area, and footer.
+- [x] Compress vertical spacing, typography scale, and section heights without losing hierarchy.
+- [x] Make the shop section compact and visual, with a smaller image treatment.
+- [x] Add verified phone, WhatsApp, email, Facebook, and booking actions where destinations are available.
+- [x] Verify the desktop and mobile layout, then save the updated checkpoint.
